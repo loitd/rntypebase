@@ -1,7 +1,11 @@
-# React Native TypeScript Template
+# RNTypeBase - A React Native 0.61.5 in TypeScript with NativeBase 2.13, Redux, Saga and React Navigation Template
 
-## Description
-* Template react native typescript project with Redux, Saga, React Navigation.
+## Description for RNTypeBase
+* React Native 0.61.5 template in Typescript with Redux, Saga, React Navigation, Axios, NativeBase 2.13.8 made ready.
+* Only plain React Native client, no expo here
+
+## Author
+* [inneka.com](https://inneka.com)
 
 ## How to run
 * Clone this project.
@@ -13,11 +17,13 @@
 * Then run `react-native run-ios` to run the project on iOS devices or run through Xcode.
 
 ## Features
-* Using typescript.
-* Regularly update the library to the latest version.
-* Routing with React Navigation (DrawerNavigator, StackNavigator).
-* Fetch simple GitHub REST API with apisauce.
-* Apply flow with Redux pattern.
+* Using Typescript
+* Regularly update the library to the latest version
+* Routing with React Navigation (DrawerNavigator, StackNavigator)
+* Fetch simple GitHub REST API with apisauce
+* Apply flow with Redux pattern
+* Axios 
+* Redux Saga
+* NativeBase 2
 
-## Gifs
-![default](gif/iosRecord.gif) ![default](gif/androidRecord.gif)
+## Notes
