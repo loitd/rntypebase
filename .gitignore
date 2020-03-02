@@ -61,3 +61,6 @@ buck-out/
 *.mp4
 *.mov
 *.mkv
+android/
+ios/
+__tests__
